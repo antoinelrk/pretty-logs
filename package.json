@@ -1,12 +1,10 @@
 {
   "name": "@antoinelrk/pretty-logs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a pretty package for a pretty logs lines 🥳",
   "main": "src/Console.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/antoinelrk/pretty-logs.git"
