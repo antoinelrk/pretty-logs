@@ -1,6 +1,6 @@
 {
   "name": "@antoinelrk/pretty-logs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's a pretty package for a pretty logs lines 🥳",
   "main": "src/Console.js",
   "type": "module",
