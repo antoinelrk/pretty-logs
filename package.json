@@ -1,5 +1,5 @@
 {
-  "name": "pretty-logs",
+  "name": "@antoinelrk/pretty-logs",
   "version": "1.0.0",
   "description": "It's a pretty package for a pretty logs lines 🥳",
   "main": "src/Console.js",
