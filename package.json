@@ -14,10 +14,16 @@
   "keywords": [
     "console"
   ],
-  "author": "",
-  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Antoine LRK",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/antoinelrk/pretty-logs/issues"
+  },
+  "engines": {
+    "node": ">=8.0.0"
   },
   "homepage": "https://github.com/antoinelrk/pretty-logs#readme"
 }
