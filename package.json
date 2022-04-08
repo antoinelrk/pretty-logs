@@ -1,6 +1,6 @@
 {
   "name": "pretty-logs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a pretty package for a pretty logs lines 🥳",
   "main": "src/Console.js",
   "type": "module",
@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/antoinelrk/pretty-logs.git"
   },
-  "keywords": [],
+  "keywords": [
+    "console"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
