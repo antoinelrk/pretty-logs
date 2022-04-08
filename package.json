@@ -1,0 +1,21 @@
+{
+  "name": "pretty-logs",
+  "version": "1.0.0",
+  "description": "It's a pretty package for a pretty logs lines 🥳",
+  "main": "src/Console.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinelrk/pretty-logs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoinelrk/pretty-logs/issues"
+  },
+  "homepage": "https://github.com/antoinelrk/pretty-logs#readme"
+}
